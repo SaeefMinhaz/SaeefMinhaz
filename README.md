@@ -34,20 +34,39 @@ I’m a Flutter & mobile app developer focused on turning ideas into smooth, use
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
+### 📱 Platforms
 ![Flutter](https://img.shields.io/badge/-Flutter-0A0A0A?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0A0A0A?style=flat-square&logo=dart)
 ![Android](https://img.shields.io/badge/-Android-0A0A0A?style=flat-square&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-0A0A0A?style=flat-square&logo=ios)
+![Windows](https://img.shields.io/badge/-Windows-0A0A0A?style=flat-square&logo=windows)
+![macOS](https://img.shields.io/badge/-macOS-0A0A0A?style=flat-square&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-0A0A0A?style=flat-square&logo=linux)
+
+### 🗺️ Maps & Location
+- Google Maps / location-based mapping integrations
+
+### 🔐 Security
+- Secure app practices (TLS/HTTPS, secure storage patterns)
+- E2EE concepts and end-to-end encryption design considerations (working on)
+
+### 💾 Databases
+- Local persistence options: SQLite, Room, Realm, Drift
+- Database encryption: encrypted local persistence patterns (at-rest encryption + secure key handling)
 
 ### ⚙️ Backend & Services
 ![Firebase](https://img.shields.io/badge/-Firebase-0A0A0A?style=flat-square&logo=firebase)
 ![REST API](https://img.shields.io/badge/-REST_API-0A0A0A?style=flat-square&logo=api)
 
-### 🧰 Tools
+### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/-Git-0A0A0A?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-0A0A0A?style=flat-square&logo=android-studio)
 ![VS Code](https://img.shields.io/badge/-VS_Code-0A0A0A?style=flat-square&logo=visual-studio-code)
+
+### 🚀 CI/CD & Release Automation
+- CI/CD pipelines (GitHub Actions)
+- Release automation (Fastlane)
 
 I primarily focus on Flutter for cross‑platform development, supported by Firebase and modern tooling.
 
