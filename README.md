@@ -3,7 +3,7 @@
 📱 **Flutter & Mobile App Developer** · 🚀 Building production‑ready cross‑platform apps · 🌍 Based in Bangladesh, working with clients worldwide
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+App+Engineer;Cross-platform+App+Specialist;Clean+Architecture+%26+State+Management;Turning+Ideas+into+Real+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+App+Engineer;Cross-platform+App+Specialist;Clean+Architecture+%26+State+Management;Turning+Ideas+into+Real+Apps" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ I like keeping communication clear and sharing progress frequently so you always
   <a href="https://linkedin.com/in/saeefminhaz">
     <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:saeefminhazshovon@gmail.com">
+  <a href="mailto:saeefminhaz@gmail.com">
     <img src="https://img.shields.io/badge/-Email-0A0A0A?style=flat-square&logo=gmail" />
   </a>
   <a href="https://saeefminhaz.github.io/">
