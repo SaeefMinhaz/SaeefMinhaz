@@ -88,12 +88,14 @@ These are a few public projects that represent how I approach building apps.
 - 🎯 Great example of handling **web content inside native Android apps**  
 - 🛠️ **Tech**: Java, Android, WebView  
 
+<!--
 ### 📱 Your Best Flutter App (Coming Soon)
 - 📌 Add one of your favorite Flutter apps here – for example, a personal or client‑safe demo project  
 - 🎯 Describe briefly **what problem it solves** and what makes it stand out  
 - 🛠️ **Tech**: Flutter, Dart, Firebase / REST APIs  
 
 > You can replace this section with any other public Flutter apps you want to highlight.
+-->
 
 ---
 
