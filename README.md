@@ -146,7 +146,7 @@ I like keeping communication clear and sharing progress frequently so you always
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaeefMinhaz&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=SaeefMinhaz&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
