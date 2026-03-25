@@ -57,6 +57,8 @@ I’m a Flutter & mobile app developer focused on turning ideas into smooth, use
 ### ⚙️ Backend & Services
 ![Firebase](https://img.shields.io/badge/-Firebase-0A0A0A?style=flat-square&logo=firebase)
 ![REST API](https://img.shields.io/badge/-REST_API-0A0A0A?style=flat-square&logo=api)
+![WebSocket](https://img.shields.io/badge/-WebSocket-0A0A0A?style=flat-square&logo=websocket)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-0A0A0A?style=flat-square&logo=socketdotio)
 
 ### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/-Git-0A0A0A?style=flat-square&logo=git)
